@@ -1,3 +1,3 @@
 # rew150/bktc
 
-nothing interesting here.
+go run . -a address
